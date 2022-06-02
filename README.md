@@ -5,7 +5,7 @@
 - Introdução á Programação e Pensamento Computacional -> Concluido
 - Introdução ao Git e ao GitHub -> Concluido
 - Criando seu Primeiro Repositório GitHub Para Compartilhar Seu Progresso - Concluido
-- Introdução ao Kotlin
+- Introdução ao Kotlin - Em Andamento
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
